@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+
+	<title>Chronological scrolling | Frepvisk</title>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width">
+    
+    <link rel="stylesheet" href="/css/syntax.css">
+    <link rel="stylesheet" href="/css/main.css">
+	<link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.xml" />
+
+</head>
+
+
+    <body>
+
+		<header>
+			
+			<h1 class="right titlesite"><a href="/">Frepvisk</a></h1>
+			<h2 class="right"><a href="/blog/">Blog</a></h2>
+
+		</header>
+
+		<div class="main">
+
+			<article class="">
+	<h1>Chronological scrolling</h1>
+	<p class="meta">2014-03-28</p>
+
+	<div class="post">
+	<p>As a vertical medium, the web has a unresolved problem with chronology. How should discrete units of news content be organized? Blogging introduced the obvious convention of antichronological order: latest on top. Other streams followed: social feeds, RSS, more than a few article comment sections (although not usually those on blogs), and of course the private news feed of webmail.</p>
+
+<p>But reading, like writing, is done from top to bottom. Antichronological order favors the latest, but chronological order favors the story – and news is by definition a story. Just as a chat thread is not shown with the latest pings on top, there is something illogical about reading articles or comments or tweets in antichronological order. Email, being a list of action items, highlights an additional downside: dealing with the latest item first is an inefficient way to Get Things Done.</p>
+
+<p>In reality, antichronological order is only ideal when there is both (1) no need to see everything, and (2) no sequential aspect to the content. Some would argue that is the case with social media news. But in practice there is surely a lot of the following going on:</p>
+
+<ul>
+<li>downscrolling (or downswiping) and reading items in wrong order</li>
+<li>locating the last read item and upscrolling to read the latest</li>
+</ul>
+
+<p>In fact, the major problems with chronological order are technical:</p>
+
+<ul>
+<li>a chronological news feed needs a defined start point, which must be tracked per-user</li>
+<li>you cannot scroll up beyond the top of the screen</li>
+</ul>
+
+<p>In 2014 such problems are easily solved. Here&#39;s a solution:</p>
+
+<ul>
+<li><p><strong>A news feed tracks items *seen</strong>* (not necessarily &quot;read&quot;) and shows the last unseen item first by default, but with an alternative &quot;straight to latest&quot; stick-to-bottom mode, like in chat. A blog can show the last item only – in the age of personalized feeds we can safely assume that homepage visitors are mainly newcomers.</p></li>
+<li><p><strong>Ajax-based upscroll functionality</strong> allows the user to backtrack over previous items. If Javascript is unavailable then the view falls back to antichronological order, allowing access by downscrolling as in the illogical tradition.</p></li>
+</ul>
+
+<p>A useful convention would thus become more useful still.</p>
+
+	</div>
+</article>
+
+
+		</div>
+
+		<footer>
+
+	<p class="right">CC-BY-ND Frepvisk <a href="/rss.xml">Feed</a></p>
+
+</footer>
+
+
+    </body>
+
+</html>

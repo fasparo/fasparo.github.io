@@ -9,7 +9,16 @@
     <link>http://frepvisk.com</link>
     <description>Frepvisk</description>
     <copyright>Frepvisk</copyright>
-    <pubDate>Sat, 22 Feb 2014 00:00:00 +0100</pubDate>
+    <pubDate>Fri, 28 Mar 2014 00:00:00 +0100</pubDate>
+    <item>
+      <title>Chronological scrolling</title>
+      <link>http://frepvisk.com/blog/scrolling-chronology</link>
+      <description>&lt;p&gt;As a vertical medium, the web has a unresolved problem with chronology. How should discrete units of news content be organized? Blogging introduced the obvious convention of antichronological order: latest on top. Other streams followed: social feeds, RSS, more than a few article comment sections (although not usually those on blogs), and of course the private news feed of webmail.&lt;/p&gt;
+</description>
+      <pubDate>Fri, 28 Mar 2014 00:00:00 +0100</pubDate>
+      <guid>http://frepvisk.com/blog/scrolling-chronology</guid>
+      <dc:date>2014-03-28T00:00:00+01:00</dc:date>
+    </item>
     <item>
       <title>Getting rich equally</title>
       <link>http://frepvisk.com/blog/wealth-population</link>
@@ -91,15 +100,6 @@
       <guid>http://frepvisk.com/blog/buttonpattern</guid>
       <dc:date>2013-08-11T00:00:00+02:00</dc:date>
     </item>
-    <item>
-      <title>Pronouncing Linux</title>
-      <link>http://frepvisk.com/blog/pronouncing-linux</link>
-      <description>&lt;p&gt;What a mess Linus Torvalds made when naming his kernel. According to the rules of English phonics, it should be pronounced &amp;quot;laɪnəks&amp;quot; (&amp;quot;lye-nooks&amp;quot;). But since many English speakers never absorbed phonics, a lot of people were soon calling it &amp;quot;lɪnəks&amp;quot; (&amp;quot;linnooks&amp;quot;, which would be &amp;quot;linnux&amp;quot; under phonics). Linus at first gave his blessing to this latter, incorrect pronunciation (which is the most popular), before explaining that he himself pronounces it something like &amp;quot;liːnʉks&amp;quot; (&amp;quot;leenooks&amp;#39;&amp;quot;) – the way it is said in every language but English. I suggest we copy him. English just isn&amp;#39;t up to the job.&lt;/p&gt;
-</description>
-      <pubDate>Sun, 21 Jul 2013 00:00:00 +0200</pubDate>
-      <guid>http://frepvisk.com/blog/pronouncing-linux</guid>
-      <dc:date>2013-07-21T00:00:00+02:00</dc:date>
-    </item>
-    <dc:date>2014-02-22T00:00:00+01:00</dc:date>
+    <dc:date>2014-03-28T00:00:00+01:00</dc:date>
   </channel>
 </rss>
