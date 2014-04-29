@@ -9,7 +9,16 @@
     <link>http://frepvisk.com</link>
     <description>Frepvisk</description>
     <copyright>Frepvisk</copyright>
-    <pubDate>Fri, 28 Mar 2014 00:00:00 +0100</pubDate>
+    <pubDate>Tue, 29 Apr 2014 00:00:00 +0200</pubDate>
+    <item>
+      <title>Political consumption</title>
+      <link>http://frepvisk.com/blog/political-consumption</link>
+      <description>&lt;p&gt;Humanity needs to consume less. Less energy, and less stuff.&lt;/p&gt;
+</description>
+      <pubDate>Tue, 29 Apr 2014 00:00:00 +0200</pubDate>
+      <guid>http://frepvisk.com/blog/political-consumption</guid>
+      <dc:date>2014-04-29T00:00:00+02:00</dc:date>
+    </item>
     <item>
       <title>Chronological scrolling</title>
       <link>http://frepvisk.com/blog/scrolling-chronology</link>
@@ -91,15 +100,6 @@
       <guid>http://frepvisk.com/blog/rss-forever</guid>
       <dc:date>2013-09-14T00:00:00+02:00</dc:date>
     </item>
-    <item>
-      <title>Link pages only</title>
-      <link>http://frepvisk.com/blog/buttonpattern</link>
-      <description>&lt;p&gt;&lt;img src=&quot;http://frepvisk.com/assets/button.png&quot; alt=&quot;A button disguised as a link&quot;&gt;&lt;/p&gt;
-</description>
-      <pubDate>Sun, 11 Aug 2013 00:00:00 +0200</pubDate>
-      <guid>http://frepvisk.com/blog/buttonpattern</guid>
-      <dc:date>2013-08-11T00:00:00+02:00</dc:date>
-    </item>
-    <dc:date>2014-03-28T00:00:00+01:00</dc:date>
+    <dc:date>2014-04-29T00:00:00+02:00</dc:date>
   </channel>
 </rss>
