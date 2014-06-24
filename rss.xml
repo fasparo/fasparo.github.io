@@ -9,7 +9,16 @@
     <link>http://frepvisk.com</link>
     <description>Frepvisk</description>
     <copyright>Frepvisk</copyright>
-    <pubDate>Wed, 28 May 2014 00:00:00 +0200</pubDate>
+    <pubDate>Tue, 24 Jun 2014 00:00:00 +0200</pubDate>
+    <item>
+      <title>An unsustainable contradiction</title>
+      <link>http://frepvisk.com/blog/unsustainable-contradiction</link>
+      <description>&lt;p&gt;People who are concerned about debt seem rarely to worry about growth, and vice-versa.&lt;/p&gt;
+</description>
+      <pubDate>Tue, 24 Jun 2014 00:00:00 +0200</pubDate>
+      <guid>http://frepvisk.com/blog/unsustainable-contradiction</guid>
+      <dc:date>2014-06-24T00:00:00+02:00</dc:date>
+    </item>
     <item>
       <title>The phonetic gap</title>
       <link>http://frepvisk.com/blog/phonetic-gap</link>
@@ -91,15 +100,6 @@
       <guid>http://frepvisk.com/blog/creative-federalism</guid>
       <dc:date>2013-10-10T00:00:00+02:00</dc:date>
     </item>
-    <item>
-      <title>Defining the web</title>
-      <link>http://frepvisk.com/blog/defining-web</link>
-      <description>&lt;p&gt;Like all responsible citizens, I back up my files both locally and online. My online backup service has a web interface, which is occasionally useful but also uncomfortable – after all, it means my private files are technically &amp;quot;on the web&amp;quot;.&lt;/p&gt;
-</description>
-      <pubDate>Wed, 25 Sep 2013 00:00:00 +0200</pubDate>
-      <guid>http://frepvisk.com/blog/defining-web</guid>
-      <dc:date>2013-09-25T00:00:00+02:00</dc:date>
-    </item>
-    <dc:date>2014-05-28T00:00:00+02:00</dc:date>
+    <dc:date>2014-06-24T00:00:00+02:00</dc:date>
   </channel>
 </rss>
