@@ -9,7 +9,16 @@
     <link>http://frepvisk.com</link>
     <description>Frepvisk</description>
     <copyright>Frepvisk</copyright>
-    <pubDate>Tue, 24 Jun 2014 00:00:00 +0200</pubDate>
+    <pubDate>Tue, 15 Jul 2014 00:00:00 +0200</pubDate>
+    <item>
+      <title>Neither public nor private</title>
+      <link>http://frepvisk.com/blog/public-private</link>
+      <description>&lt;p&gt;By now everyone accepts that if you post to a blog or Twitter, your thoughts are public, forever. Likewise, we all agree that it would be Completely Unacceptable for a webmail provider to leak your email to anyone at all, let alone the general public.&lt;/p&gt;
+</description>
+      <pubDate>Tue, 15 Jul 2014 00:00:00 +0200</pubDate>
+      <guid>http://frepvisk.com/blog/public-private</guid>
+      <dc:date>2014-07-15T00:00:00+02:00</dc:date>
+    </item>
     <item>
       <title>An unsustainable contradiction</title>
       <link>http://frepvisk.com/blog/unsustainable-contradiction</link>
@@ -91,15 +100,6 @@
       <guid>http://frepvisk.com/blog/no-quoting</guid>
       <dc:date>2013-10-27T00:00:00+02:00</dc:date>
     </item>
-    <item>
-      <title>Creative federalism</title>
-      <link>http://frepvisk.com/blog/creative-federalism</link>
-      <description>&lt;p&gt;Is it possible to be &amp;quot;united in diversity&amp;quot;? The EU&amp;#39;s motto expresses the ambiguity at the heart of federalism, and so fuels the fear that underlies EU-scepticism.&lt;/p&gt;
-</description>
-      <pubDate>Thu, 10 Oct 2013 00:00:00 +0200</pubDate>
-      <guid>http://frepvisk.com/blog/creative-federalism</guid>
-      <dc:date>2013-10-10T00:00:00+02:00</dc:date>
-    </item>
-    <dc:date>2014-06-24T00:00:00+02:00</dc:date>
+    <dc:date>2014-07-15T00:00:00+02:00</dc:date>
   </channel>
 </rss>
