@@ -9,7 +9,16 @@
     <link>http://frepvisk.com</link>
     <description>Frepvisk</description>
     <copyright>Frepvisk</copyright>
-    <pubDate>Tue, 15 Jul 2014 00:00:00 +0200</pubDate>
+    <pubDate>Sat, 30 Aug 2014 00:00:00 +0200</pubDate>
+    <item>
+      <title>Twitter endgame</title>
+      <link>http://frepvisk.com/blog/twitter-endgame</link>
+      <description>&lt;p&gt;Microblogging was invented by Twitter and for this the company deserves some success. Besides, any company endorsed by A-list celebrities and heads of state seems to me a good medium-term investment bet.&lt;/p&gt;
+</description>
+      <pubDate>Sat, 30 Aug 2014 00:00:00 +0200</pubDate>
+      <guid>http://frepvisk.com/blog/twitter-endgame</guid>
+      <dc:date>2014-08-30T00:00:00+02:00</dc:date>
+    </item>
     <item>
       <title>Neither public nor private</title>
       <link>http://frepvisk.com/blog/public-private</link>
@@ -91,15 +100,6 @@
       <guid>http://frepvisk.com/blog/prosperity-without-growth</guid>
       <dc:date>2013-11-28T00:00:00+01:00</dc:date>
     </item>
-    <item>
-      <title>Ditch the quote</title>
-      <link>http://frepvisk.com/blog/no-quoting</link>
-      <description>&lt;p&gt;According to received wisdom, email is obsolete. Partly for intractable technical reasons relating to security. But also because it encourages people to compose messages like 19th-century letter-writers, with lots of &amp;quot;Dear so-and-so&amp;quot; and &amp;quot;Best regards&amp;quot;, when they should be firing off laconic one-liners and generally getting to the point.&lt;/p&gt;
-</description>
-      <pubDate>Sun, 27 Oct 2013 00:00:00 +0200</pubDate>
-      <guid>http://frepvisk.com/blog/no-quoting</guid>
-      <dc:date>2013-10-27T00:00:00+02:00</dc:date>
-    </item>
-    <dc:date>2014-07-15T00:00:00+02:00</dc:date>
+    <dc:date>2014-08-30T00:00:00+02:00</dc:date>
   </channel>
 </rss>
