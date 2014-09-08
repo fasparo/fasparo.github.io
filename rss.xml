@@ -9,7 +9,16 @@
     <link>http://frepvisk.com</link>
     <description>Frepvisk</description>
     <copyright>Frepvisk</copyright>
-    <pubDate>Sat, 30 Aug 2014 00:00:00 +0200</pubDate>
+    <pubDate>Mon, 08 Sep 2014 00:00:00 +0200</pubDate>
+    <item>
+      <title>Paying for news online</title>
+      <link>http://frepvisk.com/blog/reader-philanthropy</link>
+      <description>&lt;p&gt;News organisations are tying themselves in knots over the question of how to charge users for content. Should it be per-article or subscription? Should the recent stuff be free, or the archives? And then there are apps, superfluously and expensively balkanised into multiple platforms, but which can at least be sold in virtual stores like the paper of yore. Even today, uninformed journalists are persuading themselves the future is rosy because of apps – the same journalists who have never themselves bought an app or indeed paid for any digital content. &lt;/p&gt;
+</description>
+      <pubDate>Mon, 08 Sep 2014 00:00:00 +0200</pubDate>
+      <guid>http://frepvisk.com/blog/reader-philanthropy</guid>
+      <dc:date>2014-09-08T00:00:00+02:00</dc:date>
+    </item>
     <item>
       <title>Twitter endgame</title>
       <link>http://frepvisk.com/blog/twitter-endgame</link>
@@ -91,15 +100,6 @@
       <guid>http://frepvisk.com/blog/filter-search</guid>
       <dc:date>2013-12-22T00:00:00+01:00</dc:date>
     </item>
-    <item>
-      <title>Prosperity without growth</title>
-      <link>http://frepvisk.com/blog/prosperity-without-growth</link>
-      <description>&lt;p&gt;I am sold on Tim Jackson&amp;#39;s theoretical &amp;quot;economics for a finite planet&amp;quot;.&lt;/p&gt;
-</description>
-      <pubDate>Thu, 28 Nov 2013 00:00:00 +0100</pubDate>
-      <guid>http://frepvisk.com/blog/prosperity-without-growth</guid>
-      <dc:date>2013-11-28T00:00:00+01:00</dc:date>
-    </item>
-    <dc:date>2014-08-30T00:00:00+02:00</dc:date>
+    <dc:date>2014-09-08T00:00:00+02:00</dc:date>
   </channel>
 </rss>
