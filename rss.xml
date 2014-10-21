@@ -9,7 +9,16 @@
     <link>http://frepvisk.com</link>
     <description>Frepvisk</description>
     <copyright>Frepvisk</copyright>
-    <pubDate>Mon, 08 Sep 2014 00:00:00 +0200</pubDate>
+    <pubDate>Tue, 21 Oct 2014 00:00:00 +0200</pubDate>
+    <item>
+      <title>The meaning of streaming</title>
+      <link>http://frepvisk.com/blog/meaning-streaming</link>
+      <description>&lt;p&gt;At first sight, Spotify seems an abomination to anyone who cares about freedom online. Your music is locked down by DRM, you lose access to it if you stop paying, and Big Record Industry is monitoring what you listen to and when. But look a bit closer and things become less clear.&lt;/p&gt;
+</description>
+      <pubDate>Tue, 21 Oct 2014 00:00:00 +0200</pubDate>
+      <guid>http://frepvisk.com/blog/meaning-streaming</guid>
+      <dc:date>2014-10-21T00:00:00+02:00</dc:date>
+    </item>
     <item>
       <title>Paying for news online</title>
       <link>http://frepvisk.com/blog/reader-philanthropy</link>
@@ -91,15 +100,6 @@
       <guid>http://frepvisk.com/blog/living-time</guid>
       <dc:date>2014-01-12T00:00:00+01:00</dc:date>
     </item>
-    <item>
-      <title>Filter versus search</title>
-      <link>http://frepvisk.com/blog/filter-search</link>
-      <description>&lt;p&gt;America has a great tradition of corporate euphemism. Lobbyists are &amp;quot;public affairs consultants&amp;quot;. Used cars are &amp;quot;pre-owned&amp;quot;, and even &amp;quot;pre-loved&amp;quot;.&lt;/p&gt;
-</description>
-      <pubDate>Sun, 22 Dec 2013 00:00:00 +0100</pubDate>
-      <guid>http://frepvisk.com/blog/filter-search</guid>
-      <dc:date>2013-12-22T00:00:00+01:00</dc:date>
-    </item>
-    <dc:date>2014-09-08T00:00:00+02:00</dc:date>
+    <dc:date>2014-10-21T00:00:00+02:00</dc:date>
   </channel>
 </rss>
