@@ -9,7 +9,16 @@
     <link>http://frepvisk.com</link>
     <description>Frepvisk</description>
     <copyright>Frepvisk</copyright>
-    <pubDate>Tue, 21 Oct 2014 00:00:00 +0200</pubDate>
+    <pubDate>Sat, 29 Nov 2014 00:00:00 +0100</pubDate>
+    <item>
+      <title>Word order podium</title>
+      <link>http://frepvisk.com/blog/word-order-podium</link>
+      <description>&lt;p&gt;In German, auxiliary verbs come at the end of the sentence. In the phrase, &amp;quot;I have baked a Black Forest gateau with an iced strawberry meringue topping&amp;quot;, we hear all about the cake before finding out what the speaker actually did with it. That seems illogical.&lt;/p&gt;
+</description>
+      <pubDate>Sat, 29 Nov 2014 00:00:00 +0100</pubDate>
+      <guid>http://frepvisk.com/blog/word-order-podium</guid>
+      <dc:date>2014-11-29T00:00:00+01:00</dc:date>
+    </item>
     <item>
       <title>The meaning of streaming</title>
       <link>http://frepvisk.com/blog/meaning-streaming</link>
@@ -91,15 +100,6 @@
       <guid>http://frepvisk.com/blog/wealth-population</guid>
       <dc:date>2014-02-22T00:00:00+01:00</dc:date>
     </item>
-    <item>
-      <title>Living time</title>
-      <link>http://frepvisk.com/blog/living-time</link>
-      <description>&lt;p&gt;In my experience, a strange thing happens when you start to use a bicycle as transport: walking suddenly seems hopelessly slow. Presumably if you upgrade to a scooter, the bike in turn will immediately appear a waste of time. Certainly, to people who fly regularly, even high-speed trains seem as plodding as treacle. Five hours, you say? Impossible.&lt;/p&gt;
-</description>
-      <pubDate>Sun, 12 Jan 2014 00:00:00 +0100</pubDate>
-      <guid>http://frepvisk.com/blog/living-time</guid>
-      <dc:date>2014-01-12T00:00:00+01:00</dc:date>
-    </item>
-    <dc:date>2014-10-21T00:00:00+02:00</dc:date>
+    <dc:date>2014-11-29T00:00:00+01:00</dc:date>
   </channel>
 </rss>
