@@ -9,7 +9,16 @@
     <link>http://frepvisk.com</link>
     <description>Frepvisk</description>
     <copyright>Frepvisk</copyright>
-    <pubDate>Sat, 29 Nov 2014 00:00:00 +0100</pubDate>
+    <pubDate>Wed, 10 Dec 2014 00:00:00 +0100</pubDate>
+    <item>
+      <title>Proxy religion</title>
+      <link>http://frepvisk.com/blog/proxy-religion</link>
+      <description>&lt;p&gt;Economic growth is the closest thing there is to a global religion. Rich and poor, left and right, Christians and Muslims and Buddhists and sub-Saharan animist pagans – everyone except a handful of greens is certain that growth is the answer to life, universal prosperity and almost everything else. Because government investment. Because consumer buying power. And above all because jobs.&lt;/p&gt;
+</description>
+      <pubDate>Wed, 10 Dec 2014 00:00:00 +0100</pubDate>
+      <guid>http://frepvisk.com/blog/proxy-religion</guid>
+      <dc:date>2014-12-10T00:00:00+01:00</dc:date>
+    </item>
     <item>
       <title>Word order podium</title>
       <link>http://frepvisk.com/blog/word-order-podium</link>
@@ -91,15 +100,6 @@
       <guid>http://frepvisk.com/blog/scrolling-chronology</guid>
       <dc:date>2014-03-28T00:00:00+01:00</dc:date>
     </item>
-    <item>
-      <title>Getting rich equally</title>
-      <link>http://frepvisk.com/blog/wealth-population</link>
-      <description>&lt;p&gt;According to demographic theory, family size declines with rising prosperity. Meanwhile, human impacts on ecosystems are widely believed to be a factor of prosperity and population.&lt;/p&gt;
-</description>
-      <pubDate>Sat, 22 Feb 2014 00:00:00 +0100</pubDate>
-      <guid>http://frepvisk.com/blog/wealth-population</guid>
-      <dc:date>2014-02-22T00:00:00+01:00</dc:date>
-    </item>
-    <dc:date>2014-11-29T00:00:00+01:00</dc:date>
+    <dc:date>2014-12-10T00:00:00+01:00</dc:date>
   </channel>
 </rss>
