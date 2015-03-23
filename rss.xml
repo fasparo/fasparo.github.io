@@ -9,7 +9,16 @@
     <link>http://fasparo.com</link>
     <description>Fasparo</description>
     <copyright>Fasparo</copyright>
-    <pubDate>Thu, 12 Feb 2015 00:00:00 +0100</pubDate>
+    <pubDate>Mon, 23 Mar 2015 00:00:00 +0100</pubDate>
+    <item>
+      <title>Without religion</title>
+      <link>http://fasparo.com/blog/without-religion</link>
+      <description>&lt;p&gt;Two steps forward, one step back. To all those non-believers who sigh that religion &amp;quot;is a part of human nature&amp;quot;, just look at the figures. There have never been more atheists and agnostics in the world. Humanity is freeing itself from religion just as John Lennon imagined. One day most people will think for themselves, not as tools of gods but as human beings. They will look in wonder at the universe without resort to infantilising fairy tales, without absurd supernational justifications which leave them vulnerable to manipulation by extremists. It will happen, one day.&lt;/p&gt;
+</description>
+      <pubDate>Mon, 23 Mar 2015 00:00:00 +0100</pubDate>
+      <guid>http://fasparo.com/blog/without-religion</guid>
+      <dc:date>2015-03-23T00:00:00+01:00</dc:date>
+    </item>
     <item>
       <title>Expensive subscription</title>
       <link>http://fasparo.com/blog/expensive-subscription</link>
@@ -91,15 +100,6 @@
       <guid>http://fasparo.com/blog/public-private</guid>
       <dc:date>2014-07-15T00:00:00+02:00</dc:date>
     </item>
-    <item>
-      <title>An unsustainable contradiction</title>
-      <link>http://fasparo.com/blog/unsustainable-contradiction</link>
-      <description>&lt;p&gt;People who are concerned about debt seem rarely to worry about growth, and vice-versa.&lt;/p&gt;
-</description>
-      <pubDate>Tue, 24 Jun 2014 00:00:00 +0200</pubDate>
-      <guid>http://fasparo.com/blog/unsustainable-contradiction</guid>
-      <dc:date>2014-06-24T00:00:00+02:00</dc:date>
-    </item>
-    <dc:date>2015-02-12T00:00:00+01:00</dc:date>
+    <dc:date>2015-03-23T00:00:00+01:00</dc:date>
   </channel>
 </rss>
