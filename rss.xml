@@ -9,7 +9,16 @@
     <link>http://fasparo.com</link>
     <description>Fasparo</description>
     <copyright>Fasparo</copyright>
-    <pubDate>Mon, 23 Mar 2015 00:00:00 +0100</pubDate>
+    <pubDate>Sun, 12 Apr 2015 00:00:00 +0200</pubDate>
+    <item>
+      <title>Race misunderstanding</title>
+      <link>http://fasparo.com/blog/race-misunderstanding</link>
+      <description>&lt;p&gt;The competitive connotations of &amp;quot;race&amp;quot; and &amp;quot;survival of the fittest&amp;quot; are nothing but a double linguistic misunderstanding.&lt;/p&gt;
+</description>
+      <pubDate>Sun, 12 Apr 2015 00:00:00 +0200</pubDate>
+      <guid>http://fasparo.com/blog/race-misunderstanding</guid>
+      <dc:date>2015-04-12T00:00:00+02:00</dc:date>
+    </item>
     <item>
       <title>Without religion</title>
       <link>http://fasparo.com/blog/without-religion</link>
@@ -91,15 +100,6 @@
       <guid>http://fasparo.com/blog/twitter-endgame</guid>
       <dc:date>2014-08-30T00:00:00+02:00</dc:date>
     </item>
-    <item>
-      <title>Neither public nor private</title>
-      <link>http://fasparo.com/blog/public-private</link>
-      <description>&lt;p&gt;By now everyone accepts that if you post to a blog or Twitter, your thoughts are public, forever. Likewise, we all agree that it would be Completely Unacceptable for a webmail provider to leak your email to anyone at all, let alone the general public.&lt;/p&gt;
-</description>
-      <pubDate>Tue, 15 Jul 2014 00:00:00 +0200</pubDate>
-      <guid>http://fasparo.com/blog/public-private</guid>
-      <dc:date>2014-07-15T00:00:00+02:00</dc:date>
-    </item>
-    <dc:date>2015-03-23T00:00:00+01:00</dc:date>
+    <dc:date>2015-04-12T00:00:00+02:00</dc:date>
   </channel>
 </rss>
