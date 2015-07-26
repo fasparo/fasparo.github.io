@@ -9,7 +9,16 @@
     <link>http://fasparo.com</link>
     <description>Fasparo</description>
     <copyright>Fasparo</copyright>
-    <pubDate>Sat, 27 Jun 2015 00:00:00 +0200</pubDate>
+    <pubDate>Sun, 26 Jul 2015 00:00:00 +0200</pubDate>
+    <item>
+      <title>Dismantling Babel</title>
+      <link>http://fasparo.com/blog/linguistic-diversity</link>
+      <description>&lt;p&gt;Language is the biodiversity of the human species. And just as there will be fewer species of butterfly tomorrow than there are today, there will be fewer languages. From 7000 to 700 by the end of the century, by one estimate.&lt;/p&gt;
+</description>
+      <pubDate>Sun, 26 Jul 2015 00:00:00 +0200</pubDate>
+      <guid>http://fasparo.com/blog/linguistic-diversity</guid>
+      <dc:date>2015-07-26T00:00:00+02:00</dc:date>
+    </item>
     <item>
       <title>Delete the social button</title>
       <link>http://fasparo.com/blog/antisocial-button</link>
@@ -91,15 +100,6 @@
       <guid>http://fasparo.com/blog/word-order-podium</guid>
       <dc:date>2014-11-29T00:00:00+01:00</dc:date>
     </item>
-    <item>
-      <title>The meaning of streaming</title>
-      <link>http://fasparo.com/blog/meaning-streaming</link>
-      <description>&lt;p&gt;At first sight, Spotify seems an abomination to anyone who cares about freedom online. Your music is locked down by DRM, you lose access to it if you stop paying, and Big Record Industry is monitoring what you listen to and when. But look a bit closer and things become less clear.&lt;/p&gt;
-</description>
-      <pubDate>Tue, 21 Oct 2014 00:00:00 +0200</pubDate>
-      <guid>http://fasparo.com/blog/meaning-streaming</guid>
-      <dc:date>2014-10-21T00:00:00+02:00</dc:date>
-    </item>
-    <dc:date>2015-06-27T00:00:00+02:00</dc:date>
+    <dc:date>2015-07-26T00:00:00+02:00</dc:date>
   </channel>
 </rss>
