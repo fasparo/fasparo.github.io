@@ -9,7 +9,16 @@
     <link>http://fasparo.com</link>
     <description>Fasparo</description>
     <copyright>Fasparo</copyright>
-    <pubDate>Sun, 26 Jul 2015 00:00:00 +0200</pubDate>
+    <pubDate>Fri, 21 Aug 2015 00:00:00 +0200</pubDate>
+    <item>
+      <title>Data hoarding</title>
+      <link>http://fasparo.com/blog/data-hoarding</link>
+      <description>&lt;p&gt;It seems to be a human instinct to want to build personal collections of other people&amp;#39;s data.&lt;/p&gt;
+</description>
+      <pubDate>Fri, 21 Aug 2015 00:00:00 +0200</pubDate>
+      <guid>http://fasparo.com/blog/data-hoarding</guid>
+      <dc:date>2015-08-21T00:00:00+02:00</dc:date>
+    </item>
     <item>
       <title>Dismantling Babel</title>
       <link>http://fasparo.com/blog/linguistic-diversity</link>
@@ -91,15 +100,6 @@
       <guid>http://fasparo.com/blog/proxy-religion</guid>
       <dc:date>2014-12-10T00:00:00+01:00</dc:date>
     </item>
-    <item>
-      <title>Word order podium</title>
-      <link>http://fasparo.com/blog/word-order-podium</link>
-      <description>&lt;p&gt;In German, auxiliary verbs come at the end of the sentence. In the phrase, &amp;quot;I have baked a Black Forest gateau with an iced strawberry meringue topping&amp;quot;, we hear all about the cake before finding out what the speaker actually did with it. That seems illogical.&lt;/p&gt;
-</description>
-      <pubDate>Sat, 29 Nov 2014 00:00:00 +0100</pubDate>
-      <guid>http://fasparo.com/blog/word-order-podium</guid>
-      <dc:date>2014-11-29T00:00:00+01:00</dc:date>
-    </item>
-    <dc:date>2015-07-26T00:00:00+02:00</dc:date>
+    <dc:date>2015-08-21T00:00:00+02:00</dc:date>
   </channel>
 </rss>
