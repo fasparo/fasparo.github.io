@@ -9,7 +9,16 @@
     <link>http://fasparo.com</link>
     <description>Fasparo</description>
     <copyright>Fasparo</copyright>
-    <pubDate>Fri, 21 Aug 2015 00:00:00 +0200</pubDate>
+    <pubDate>Fri, 11 Sep 2015 00:00:00 +0200</pubDate>
+    <item>
+      <title>A single relevant news feed</title>
+      <link>http://fasparo.com/blog/single-relevant-feed</link>
+      <description>&lt;p&gt;To follow people on Twitter as a means of finding news is to get an edited news feed in return for delegating to others your choice of sources. Alternatively, subscribing directly to news producers by RSS is to get a firehose in return for the privilege of choosing your own sources. In the first case you control the filter but not the source, in the second the source but not the filter.&lt;/p&gt;
+</description>
+      <pubDate>Fri, 11 Sep 2015 00:00:00 +0200</pubDate>
+      <guid>http://fasparo.com/blog/single-relevant-feed</guid>
+      <dc:date>2015-09-11T00:00:00+02:00</dc:date>
+    </item>
     <item>
       <title>Data hoarding</title>
       <link>http://fasparo.com/blog/data-hoarding</link>
@@ -91,15 +100,6 @@
       <guid>http://fasparo.com/blog/meat-hypocrite</guid>
       <dc:date>2014-12-30T00:00:00+01:00</dc:date>
     </item>
-    <item>
-      <title>Proxy religion</title>
-      <link>http://fasparo.com/blog/proxy-religion</link>
-      <description>&lt;p&gt;Economic growth is the closest thing there is to a global religion. Rich and poor, left and right, Christians and Muslims and Buddhists and sub-Saharan animist pagans – everyone except a handful of greens is certain that growth is the answer to life, universal prosperity and almost everything else. Because government investment. Because consumer buying power. And above all because jobs.&lt;/p&gt;
-</description>
-      <pubDate>Wed, 10 Dec 2014 00:00:00 +0100</pubDate>
-      <guid>http://fasparo.com/blog/proxy-religion</guid>
-      <dc:date>2014-12-10T00:00:00+01:00</dc:date>
-    </item>
-    <dc:date>2015-08-21T00:00:00+02:00</dc:date>
+    <dc:date>2015-09-11T00:00:00+02:00</dc:date>
   </channel>
 </rss>
