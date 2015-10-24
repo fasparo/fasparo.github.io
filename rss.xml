@@ -9,7 +9,16 @@
     <link>http://fasparo.com</link>
     <description>Fasparo</description>
     <copyright>Fasparo</copyright>
-    <pubDate>Fri, 11 Sep 2015 00:00:00 +0200</pubDate>
+    <pubDate>Sat, 24 Oct 2015 00:00:00 +0200</pubDate>
+    <item>
+      <title>An alternative to independence</title>
+      <link>http://fasparo.com/blog/independence-alternative</link>
+      <description>&lt;p&gt;&lt;img src=&quot;http://fasparo.com/assets/flag.jpg&quot; alt=&quot;Catalan flags, Barcelona&quot;&gt;&lt;/p&gt;
+</description>
+      <pubDate>Sat, 24 Oct 2015 00:00:00 +0200</pubDate>
+      <guid>http://fasparo.com/blog/independence-alternative</guid>
+      <dc:date>2015-10-24T00:00:00+02:00</dc:date>
+    </item>
     <item>
       <title>A single relevant news feed</title>
       <link>http://fasparo.com/blog/single-relevant-feed</link>
@@ -91,15 +100,6 @@
       <guid>http://fasparo.com/blog/open-payment</guid>
       <dc:date>2015-01-18T00:00:00+01:00</dc:date>
     </item>
-    <item>
-      <title>Meat hypocrite</title>
-      <link>http://fasparo.com/blog/meat-hypocrite</link>
-      <description>&lt;p&gt;Factory farming is the cruel industrial revolution of the last half-century, I&amp;#39;ve discovered from Jonathan Safran Foer&amp;#39;s Eating Animals (2008). Over 99% of all farming in the rich world has, quite suddenly, become industrial. House prices and car prices have increased 14 or 15 times, but chicken prices have barely doubled. We now eat cheaply what we most want to eat: meat.&lt;/p&gt;
-</description>
-      <pubDate>Tue, 30 Dec 2014 00:00:00 +0100</pubDate>
-      <guid>http://fasparo.com/blog/meat-hypocrite</guid>
-      <dc:date>2014-12-30T00:00:00+01:00</dc:date>
-    </item>
-    <dc:date>2015-09-11T00:00:00+02:00</dc:date>
+    <dc:date>2015-10-24T00:00:00+02:00</dc:date>
   </channel>
 </rss>
