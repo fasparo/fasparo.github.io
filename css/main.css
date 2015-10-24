@@ -61,6 +61,10 @@ code {
   background-color: #eef;
   padding: 0 .2rem; }
 
+img {
+  display: block;
+  max-width: 100%; }
+
 li {
   margin-left: 1rem; }
 
