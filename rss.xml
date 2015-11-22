@@ -9,7 +9,16 @@
     <link>http://fasparo.com</link>
     <description>Fasparo</description>
     <copyright>Fasparo</copyright>
-    <pubDate>Sat, 24 Oct 2015 00:00:00 +0200</pubDate>
+    <pubDate>Sun, 22 Nov 2015 00:00:00 +0100</pubDate>
+    <item>
+      <title>Bulletproof archiving</title>
+      <link>http://fasparo.com/blog/bulletproof-archiving</link>
+      <description>&lt;p&gt;As part of my strategy for archiving important data, I have long had an &amp;quot;Archive&amp;quot; directory which I consider as a virtual safe-deposit box. That is: once inside, files can be consulted but not modified. The way to do this is by write-protecting them. Important documents and photos may then be freely opened in, say, a graphics program or a text editor without the risk of being overwritten inadvertently. But how can the write-protection be automated? With &lt;code&gt;inotifywait&lt;/code&gt;:&lt;/p&gt;
+</description>
+      <pubDate>Sun, 22 Nov 2015 00:00:00 +0100</pubDate>
+      <guid>http://fasparo.com/blog/bulletproof-archiving</guid>
+      <dc:date>2015-11-22T00:00:00+01:00</dc:date>
+    </item>
     <item>
       <title>An alternative to independence</title>
       <link>http://fasparo.com/blog/independence-alternative</link>
@@ -91,15 +100,6 @@
       <guid>http://fasparo.com/blog/expensive-subscription</guid>
       <dc:date>2015-02-12T00:00:00+01:00</dc:date>
     </item>
-    <item>
-      <title>Open tip jar</title>
-      <link>http://fasparo.com/blog/open-payment</link>
-      <description>&lt;p&gt;Journalism seems at last to be adapting to the internet without reservations. But now it must face another risk: the temptation of selling its soul to that cartel of US-based corporations and services and platforms whose names do not need to be mentioned.&lt;/p&gt;
-</description>
-      <pubDate>Sun, 18 Jan 2015 00:00:00 +0100</pubDate>
-      <guid>http://fasparo.com/blog/open-payment</guid>
-      <dc:date>2015-01-18T00:00:00+01:00</dc:date>
-    </item>
-    <dc:date>2015-10-24T00:00:00+02:00</dc:date>
+    <dc:date>2015-11-22T00:00:00+01:00</dc:date>
   </channel>
 </rss>

@@ -15,7 +15,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-size: 100%; }
 
-p, .p {
+p, .p, pre code {
   margin: 0 0 1rem; }
 
 a {
@@ -72,6 +72,7 @@ p {
   line-height: 1.4em; }
 
 pre code {
+  display: block;
   border: none; }
 
 section {
