@@ -35,6 +35,13 @@ blockquote {
 /* variables */
 /* mixins */
 /* layout */
+.container,
+main nav,
+main article,
+main section {
+  max-width: 50rem;
+  margin: 0 auto 1rem; }
+
 header {
   padding: 1rem; }
 
@@ -44,14 +51,6 @@ footer {
 main {
   padding: 1rem;
   background-color: #ffffff; }
-
-header h1,
-main nav,
-main article,
-main section,
-footer p {
-  max-width: 50rem;
-  margin: 0 auto 1rem; }
 
 main nav {
   margin-bottom: 1rem; }
@@ -84,6 +83,18 @@ section:last-child {
 section ul li {
   list-style-type: none;
   margin-bottom: 1rem; }
+
+.copyright {
+  display: inline; }
+
+.further {
+  display: inline; }
+  .further li {
+    list-style-type: none;
+    display: inline;
+    border-left: 0.1em solid #aaa;
+    padding-left: 0.5em;
+    margin-left: 1em; }
 
 .subtitle,
 .supertitle {
