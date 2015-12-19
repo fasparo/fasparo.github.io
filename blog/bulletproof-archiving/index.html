@@ -34,7 +34,7 @@
 	<div class="subtitle">2015-11-22</div>
 	<p>As part of my strategy for archiving important data, I have long had an &quot;Archive&quot; directory which I consider as a virtual safe-deposit box. That is: once inside, files can be consulted but not modified. The way to do this is by write-protecting them. Important documents and photos may then be freely opened in, say, a graphics program or a text editor without the risk of being overwritten inadvertently. But how can the write-protection be automated? With <code>inotifywait</code>:</p>
 
-<div class="highlight"><pre><code class="text language-text" data-lang="text">#!/bin/bash
+<div class="highlight"><pre><code class="language-text" data-lang="text">#!/bin/bash
 while filename=$(inotifywait -r -e create --format %w%f ~/Archive/); do
     chmod 555 &quot;$filename&quot;
 done
