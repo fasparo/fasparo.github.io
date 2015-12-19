@@ -31,12 +31,15 @@
 
 			<article>
 	<h1>Data nirvana</h1>
-	<div class="subtitle">2015-12-17</div>
+	<div class="subtitle">2015-12-19</div>
 	<p>A personal computer is firstly a tool, but it was also intended to be place to store personal data. In 2015 most people have given up and entrusted all this stuff to corporate clouds. But I have doubled down and decided that my personal data (or at least the canonical version of it) belongs in a personal place, not in a data center. And after a decade or so on Linux, I have arrived at what feels like the ideal way to do that.</p>
 
-<p>First, definitions. Personal data seems to fall into two categories:
-* archive data – meaning all those documents, pictures, videos, correspondence, perhaps audio, perhaps computer code, which you do not want to lose, ever; and
-* current data – the things you are working on right now.</p>
+<p>First, definitions. Personal data seems to fall into two categories:</p>
+
+<ul>
+<li><p>archive data – meaning all those documents, pictures, videos, correspondence, perhaps audio, perhaps computer code, which you do not want to lose, ever; and</p></li>
+<li><p>current data – the things you are working on right now.</p></li>
+</ul>
 
 <p>Next, requirements:</p>
 
@@ -49,7 +52,7 @@
 <p>My solution, then, is to:</p>
 
 <ul>
-<li><p>keep current data in <code>/Desktop</code> and archive data on an always-connected external drive labeled <code>Data</code>;</p></li>
+<li><p>keep current data in <code>/Desktop</code>, and archive data on an always-connected external drive labeled <code>Data</code>;</p></li>
 <li><p>symlink <code>/Desktop</code> back into <code>Data</code> (and any important config files back into <code>/Desktop</code>;</p></li>
 <li><p>do a weekly <code>rsync</code> of <code>Data</code> to a second external drive labeled <code>Backup</code>, with the <code>-L</code> flag so that the content of <code>/Desktop</code> is pulled along too; and</p></li>
 <li><p>do a less frequent <code>rsync</code> of <code>Data</code> to a remote drive, <em>without</em> the <code>-L</code> flag so that only archive data is transferred.</p></li>
